@@ -2,12 +2,8 @@
 
 ###
 
-<img align="right" height="150" src="https://ik.imagekit.io/a3keouazok/%E5%A4%B4%E5%83%8F.jpg"  />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=%E6%94%B6%E6%8B%BE%E8%8B%8D%E5%87%89%E6%AE%8B%E7%85%A7%EF%BC%8C%E5%B8%83%E6%95%A3%E7%83%88%E7%83%88%E6%9C%9D%E6%99%96&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="left">
+  <img align="right" height="150" src="https://ik.imagekit.io/a3keouazok/%E5%A4%B4%E5%83%8F.jpg" alt="avatar" />
 </div>
 
 ###
@@ -44,6 +40,10 @@
   <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="wechat logo"  />
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&text=%E6%94%B6%E6%8B%BE%E8%8B%8D%E5%87%89%E6%AE%8B%E7%85%A7%EF%BC%8C%E5%B8%83%E6%95%A3%E7%83%88%E7%83%88%E6%9C%9D%E6%99%96&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
